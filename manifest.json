@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Vanish & Noclip Pack",
+    "description": "Vanish, noclip, outline, and collision toggle features",
+    "uuid": "11111111-1111-1111-1111-111111111111",
+    "version": [1, 0, 0]
+  },
+  "modules": [
+    {
+      "type": "scripting",
+      "uuid": "22222222-2222-2222-2222-222222222222",
+      "version": [1, 0, 0],
+      "entry": "scripts/vanish.js"
+    }
+  ]
+}
